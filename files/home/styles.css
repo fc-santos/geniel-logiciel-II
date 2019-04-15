@@ -1,4 +1,4 @@
-﻿body {
+body {
   margin:auto;
   background-image:none;
   position:static;
@@ -2627,6 +2627,7 @@
 }
 #u80_text {
   border-width:0px;
+    font-size: 25px;
   position:absolute;
   left:0px;
   top:0px;
@@ -2663,6 +2664,7 @@
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
+    font-size:40px;
 }
 #u81_text {
   border-width:0px;
