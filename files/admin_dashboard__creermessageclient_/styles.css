@@ -1,11 +1,9 @@
 ﻿body {
-  margin:0px;
+  margin:auto;
   background-image:none;
   position:static;
   left:auto;
   width:1209px;
-  margin-left:0;
-  margin-right:0;
   text-align:left;
 }
 #base {
